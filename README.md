@@ -79,37 +79,45 @@ As a result of all these causes, various small projects have resulted in diverse
   </ul>
 </details>
 
-- **A. Información**
-    - Nombre: *David Domínguez Herbón*, *David D. Herbon*
-    - Fecha de nacimiento: *22 de junio de 1979, 13:30 hrs.*
-    - Lugar de nacimiento: *[Miranda de Ebro](https://en.wikipedia.org/wiki/Miranda_de_Ebro)*
-    - Correo electrónico: [*herdado@pm.me*](mailto:herdado@pm.me)
-    - Teléfono: [*t.me/herdado*](https://t.me/herdado)
-    - Twitter: [*@herdado*](https://twitter.com/herdado)
-- **B. Formación**
-    - **1. Idiomas**
-        - Gallego: Dominio (lengua materna).
-        - Castellano: Dominio (sistema educativo).
-        - Portugués: Dominio.
-        - Inglés: Dominio (Escuela Oficial de Idiomas, Ministerio de Educación y Ciencia, 1989-1996).
-        - Francés: Lectura y escritura (Instituto de Enseñanza Secundaria “Fray Pedro de Urbina”, 1994-1997).
-        - Italiano: Lectura y escritura.
-    - **2. Estudios de Grado**
-        - Licenciatura en Historia, por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México (México), de 2009 a la fecha. Créditos: 59%. Promedio: 9.38.
-        - Licenciatura en Geografía, por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México (México), de septiembre de 2005 a junio de 2008. Créditos: 37%. Promedio: 9.16.
-        - Licenciatura en Geografía, por la Universidade de Santiago de Compostela (España), de septiembre de 2000 a julio de 2003. Créditos: 25%. Promedio: 8.64.
-        - Especialización en Sistemas Gestores de Bases de Datos Referenciales, por la Facultade de Informática de la Universidade de Santiago de Compostela (España), de septiembre de 2000 a julio de 2001. Créditos: 100%. Promedio: 10.00.
-        - Licenciatura en Informática de Sistemas, por el Instituto de Educación Superior “San Clemente” y la Universidade de Santiago de Compostela (España), de septiembre de 1998 a julio de 2000. Créditos: 100%. Promedio: 9.76.
-    - **3. Cursos de Actualización**
-        - Seminario “Digital Humanities: prospettive globali e applicazioni pratiche. Scholarly Digital Edition Workshop”, impartido por el Dr. Domenico Fiormonte, en el marco de la Càtedra “Màrius Torres” dirigida por el Dr. Joan Ramon Veny-Mesquida, organizado por la Universitat de Lleida y la Università di Roma Tre, y celebrado los días 23 a 25 de enero de 2018. Duración: 20 horas.
-        - Taller “Spatial Humanities for Beginners”, impartido por el Dr. David Wrisley, en el marco del 3° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales, El Colegio de México, y la Universidad Nacional Autónoma de México, celebrado en la Biblioteca "Daniel Cosío Villegas" de El Colegio de México, los días 11 y 12 de septiembre de 2016. Duración: 8 horas.
-        - Curso de verano “Introducción a las Humanidades Digitales / DH@Madrid Summer School”, organizado por el Laboratorio de Innovación en Humanidades Digitales (Universidad Nacional de Educación a Distancia), dirigido por la Dra. Elena González-Blanco, celebrado en Madrid entre el 23 y el 27 de junio de 2014. Duración: 40 horas.
-        - Curso de verano “Detrás de las apariencias. Información, comunicación, espionaje (siglos XVI-XVII)”, organizado por la Universidad de Alcalá, el Centro Europeo para la Difusión de las Ciencias Sociales y el Laboratorio di Storia Marittima e Navale de la Università degli Studi di Genova, dirigido por los Dres. Emilio Sola Castaño y Gennaro Varriale, celebrado en el Colegio de Málaga, en Alcalá de Henares, entre el 22 y el 24 de julio de 2014. Duración: 30 horas.
-        - Taller “Omeka”, impartido por el Dr. Alexander Gil, en el marco del 2° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales y Global Outlook::Digital Humanities, celebrado en la Biblioteca Nacional “José Vasconcelos”, el 20 de mayo de 2014. Duración: 8 horas.
-        - Taller “TEI-XML”, impartido por el Dr. Daniel Paul O'Donnell, en el marco del 2° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales y Global Outlook::Digital Humanities, celebrado en la Biblioteca Nacional “José Vasconcelos”, el 19 de mayo de 2014. Duración: 8 horas.
-        - Seminario permanente “Humanidades Digitales”, dirigido por la Dra. Miriam Peña Pimentel, organizado por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, desde agosto de 2013 a la fecha.
-        - Curso-Taller “¡Ubuntu para todos! Descubriendo al GNU/Linux”, organizado por el Colegio de Pedagogía de la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, y celebrado en el Seminario de Pedagogía de la Torre I de Humanidades de Ciudad Universitaria (México), entre el 7 y el 25 de enero de 2013. Duración: 24 horas.
-        - Curso “Cultura y sociedad en la España Moderna”, impartido por la Dra. Ana María Carabias Torres, en el marco de la Cátedra Extraordinaria “Diego de Castilla”, organizado por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México y la Universidad de Salamanca, celebrado en el Aula “Simón Bolívar” de la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, del 27 de octubre al 3 de diciembre de 2004. Duración: 20 horas.
+<details>
+  <summary><b>B. Formación</b></summary>
+  <ul style = "list-style-type: none">
+  <details>
+    <summary><u>1. Idiomas</u></summary>
+    <ul style = "list-style-type: none">
+      <li>Gallego: Dominio (lengua materna).</li>
+      <li>Castellano: Dominio (sistema educativo).</li>
+      <li>Portugués: Dominio.</li>
+      <li>Inglés: Dominio (Escuela Oficial de Idiomas, Ministerio de Educación y Ciencia, 1989-1996).</li>
+      <li>Francés: Lectura y escritura (Instituto de Enseñanza Secundaria “Fray Pedro de Urbina”, 1994-1997).</li>
+      <li>Italiano: Lectura y escritura.</li>
+    </ul>
+  </details>
+  <details>
+    <summary><u>2. Estudios de Grado</u></summary>
+    <ul style = "list-style-type: none">
+      <li>Licenciatura en Historia, por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México (México), de 2009 a la fecha. Créditos: 59%. Promedio: 9.38.</li>
+      <li>Licenciatura en Geografía, por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México (México), de septiembre de 2005 a junio de 2008. Créditos: 37%. Promedio: 9.16.</li>
+      <li>Licenciatura en Geografía, por la Universidade de Santiago de Compostela (España), de septiembre de 2000 a julio de 2003. Créditos: 25%. Promedio: 8.64.</li>
+      <li>Licenciatura en Informática de Sistemas, por el Instituto de Educación Superior “San Clemente” y la Universidade de Santiago de Compostela (España), de septiembre de 1998 a julio de 2000. Créditos: 100%. Promedio: 9.76.</li>
+    </ul>
+  </details>
+  <details>
+    <summary><u>3. Cursos de actualización</u></summary>
+    <ul style = "list-style-type: none">
+      <li>Seminario “Digital Humanities: prospettive globali e applicazioni pratiche. Scholarly Digital Edition Workshop”, impartido por el Dr. Domenico Fiormonte, en el marco de la Càtedra “Màrius Torres” dirigida por el Dr. Joan Ramon Veny-Mesquida, organizado por la Universitat de Lleida y la Università di Roma Tre, y celebrado los días 23 a 25 de enero de 2018. Duración: 20 horas.</li>
+      <li>Taller “Spatial Humanities for Beginners”, impartido por el Dr. David Wrisley, en el marco del 3° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales, El Colegio de México, y la Universidad Nacional Autónoma de México, celebrado en la Biblioteca "Daniel Cosío Villegas" de El Colegio de México, los días 11 y 12 de septiembre de 2016. Duración: 8 horas.</li>
+      <li>Curso de verano “Introducción a las Humanidades Digitales / DH@Madrid Summer School”, organizado por el Laboratorio de Innovación en Humanidades Digitales (Universidad Nacional de Educación a Distancia), dirigido por la Dra. Elena González-Blanco, celebrado en Madrid entre el 23 y el 27 de junio de 2014. Duración: 40 horas.</li>
+      <li>Curso de verano “Detrás de las apariencias. Información, comunicación, espionaje (siglos XVI-XVII)”, organizado por la Universidad de Alcalá, el Centro Europeo para la Difusión de las Ciencias Sociales y el Laboratorio di Storia Marittima e Navale de la Università degli Studi di Genova, dirigido por los Dres. Emilio Sola Castaño y Gennaro Varriale, celebrado en el Colegio de Málaga, en Alcalá de Henares, entre el 22 y el 24 de julio de 2014. Duración: 30 horas.</li>
+      <li>Taller “Omeka”, impartido por el Dr. Alexander Gil, en el marco del 2° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales y Global Outlook::Digital Humanities, celebrado en la Biblioteca Nacional “José Vasconcelos”, el 20 de mayo de 2014. Duración: 8 horas.</li>
+      <li>Taller “TEI-XML”, impartido por el Dr. Daniel Paul O'Donnell, en el marco del 2° Encuentro de Humanistas Digitales, organizado por la Red de Humanidades Digitales y Global Outlook::Digital Humanities, celebrado en la Biblioteca Nacional “José Vasconcelos”, el 19 de mayo de 2014. Duración: 8 horas.</li>
+      <li>Seminario permanente “Humanidades Digitales”, dirigido por la Dra. Miriam Peña Pimentel, organizado por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, desde agosto de 2013 a la fecha.</li>
+      <li>Curso-Taller “¡Ubuntu para todos! Descubriendo al GNU/Linux”, organizado por el Colegio de Pedagogía de la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, y celebrado en el Seminario de Pedagogía de la Torre I de Humanidades de Ciudad Universitaria (México), entre el 7 y el 25 de enero de 2013. Duración: 24 horas.</li>
+      <li>Curso “Cultura y sociedad en la España Moderna”, impartido por la Dra. Ana María Carabias Torres, en el marco de la Cátedra Extraordinaria “Diego de Castilla”, organizado por la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México y la Universidad de Salamanca, celebrado en el Aula “Simón Bolívar” de la Facultad de Filosofía y Letras de la Universidad Nacional Autónoma de México, del 27 de octubre al 3 de diciembre de 2004. Duración: 20 horas.</li>
+    </ul>
+  </details>
+</details>
+
 - **C. Laboral**
     - **1. Proyectos**
         - Proyecto Digital [“Noticias del Viejo Imperio (1862-1866)”](https://envi19.cl/), en el marco del [Proyecto Fondecyt de Iniciación Nº 112000245](https://s3.amazonaws.com/documentos.anid.cl/iniciacion/2020/fallo/NominaProyectosAprobadosIniciacion2020.pdf) “Noticias del Viejo Imperio. La Expedición del Pacífico y la Guerra hispano-sudamericana en los imaginarios geopolíticos de la España liberal (1860-1866)”, dirigido por el Dr. Rodrigo Escribano Roca, financiado por la Agencia Nacional de Investigación y Desarrollo, del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, del Gobierno de Chile. Actividades: diseño de procesos, de imagen y de sitio web; investigador participante y coordinador técnico.
