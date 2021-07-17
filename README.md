@@ -67,6 +67,16 @@ As a result of all these causes, various small projects have resulted in diverse
 
 # *Curriculum Vitæ*
 
+<details>
+  <summary>**A. Información**</summary>
+    - Nombre: *David Domínguez Herbón*, *David D. Herbon*
+    - Fecha de nacimiento: *22 de junio de 1979, 13:30 hrs.*
+    - Lugar de nacimiento: *[Miranda de Ebro](https://en.wikipedia.org/wiki/Miranda_de_Ebro)*
+    - Correo electrónico: [*herdado@pm.me*](mailto:herdado@pm.me)
+    - Teléfono: [*t.me/herdado*](https://t.me/herdado)
+    - Twitter: [*@herdado*](https://twitter.com/herdado)
+</details>
+
 - **A. Información**
     - Nombre: *David Domínguez Herbón*, *David D. Herbon*
     - Fecha de nacimiento: *22 de junio de 1979, 13:30 hrs.*
