@@ -69,12 +69,14 @@ As a result of all these causes, various small projects have resulted in diverse
 
 <details>
   <summary><b>A. Información</b></summary>
-    * Nombre: *David Domínguez Herbón*, *David D. Herbon*
-    * Fecha de nacimiento: *22 de junio de 1979, 13:30 hrs.*
-    * Lugar de nacimiento: *[Miranda de Ebro](https://en.wikipedia.org/wiki/Miranda_de_Ebro)*
-    * Correo electrónico: [*herdado@pm.me*](mailto:herdado@pm.me)
-    * Teléfono: [*t.me/herdado*](https://t.me/herdado)
-    * Twitter: [*@herdado*](https://twitter.com/herdado)
+  <ul style = "list-style-type: none">
+    <li>Nombre: <i>David Domínguez Herbón</i>, <i>David D. Herbon</i></li>
+    <li>Fecha de nacimiento: <i>22 de junio de 1979, 13:30 hrs.</i></li>
+    <li><a href="https://en.wikipedia.org/wiki/Miranda_de_Ebro" target="_blank">Miranda de Ebro</a></li>
+    <li><a href="mailto:herdado@pm.me" target="_blank">herdado@pm.me</a></li>
+    <li><a href="https://t.me/herdado" target="_blank">t.me/herdado</a></li>
+    <li><a href="https://twitter.com/herdado" target="_blank">@herdado</a></li>
+  </ul>
 </details>
 
 - **A. Información**
